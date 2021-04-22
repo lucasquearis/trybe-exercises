@@ -1,0 +1,31 @@
+body {
+    background-color: #5EA4BF;
+}
+
+.menu {
+    text-align: center;
+}
+
+.navegacao {
+    text-align: center;
+}
+
+.navegacao li {
+    display: inline;
+}
+
+.navegacao ul {
+    display: inline;
+}
+
+.secao-fatos img{
+    max-width: 200px;
+}
+
+.secao-fatos p{
+    max-width: 500px;
+}
+
+.secao-header p{
+    max-width: 500px;
+}

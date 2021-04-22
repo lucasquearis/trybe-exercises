@@ -1,0 +1,53 @@
+h1 {
+  text-align: center;
+}
+
+.first {
+  background-color: rgb(235, 200, 84);
+  font-size: 20px;
+  height: 50px;
+  text-align: center;
+  width: 200px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.second {
+  background-color: rgb(219, 219, 219);
+  font-size: 20px;
+  height: 50px;
+  text-align: center;
+  width: 300px;
+  display: inline-block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.third {
+  background-color: rgb(170, 142, 106);
+  font-size: 20px;
+  height: 50px;
+  text-align: center;
+  width: 300px;
+  display: inline-block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.header-podium {
+  text-align: center;
+}
+
+.lista li {
+  display: inline;
+  text-align: center;
+}
+
+.lista ul {
+  text-align: center;
+}
+
+.podium ul{
+  margin: auto;
+  text-align: center;
+}
