@@ -6,14 +6,16 @@ body {
     text-align: center;
 }
 
+.navegacao {
+    text-align: center;
+}
+
 .navegacao li {
     display: inline;
-    text-align: center;
-    padding-right: 25%;
 }
 
 .navegacao ul {
-    display: inline-block;
+    display: inline;
 }
 
 .secao-fatos img{
