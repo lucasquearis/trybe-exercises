@@ -8,7 +8,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ## Fundamentos doDesenvolvimento Web :white_check_mark:
 
-##### Bloco 1: IntroduÃ§Ã£o - Unix & Shell
+##### Bloco 1: Introdução - Unix & Shell
 
 - [x] 1-3: _Unix & Bash - Part 1_
 - [x] 1-4: _Unix & Bash - Part 2_
@@ -20,7 +20,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] 2-2: _Entendendo os comandos_
 - [x] 2-3: _Internet - Entendendo como ela funciona_
 
-##### Bloco 3: IntroduÃ§Ã£o - HTML & CSS
+##### Bloco 3: Introdução - HTML & CSS
 
 - [x] 3-1: _HTML & CSS - Estruturas de página_
 - [x] 3-2: _HTML & CSS - Primeiros passos em CSS_
@@ -28,7 +28,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] 3-4: _HTML Semântico_
 - [x] 3-5: _[Projeto - HTML & CSS]()_
 
-##### Bloco 4: IntroduÃ§Ã£o - JavaScript
+##### Bloco 4: Introdução - JavaScript
 
 - [x] 4-1: _JavaScript - Primeiros passos_
 - [ ] 4-2: _JavaScript - Array e loop For_
@@ -36,7 +36,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [ ] 4-4: _JavaScript - Objetos e funções_
 - [ ] 4-5: _[Projeto - Playground Functions]()_
 
-##### Bloco 5: IntroduÃ§Ã£o - JavaScript - Projetos
+##### Bloco 5: Introdução - JavaScript - Projetos
 
 - [ ] 5-1: _JavaScript - DOM e seletores_
 - [ ] 5-2: _JavaScript - Trabalhando com elementos_
@@ -57,7 +57,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [ ] 6-5: _CSS Responsivo - Mobile First_
 - [ ] 6-6: _[Projeto - PÃ¡gina inicial do Facebook]()_
 
-##### Bloco 7: JavaScript ES6 & Testes UnitÃ¡rios
+##### Bloco 7: JavaScript ES6 & Testes Unitários
 
 - [ ] 7-1: _JavaScript ES6 - let, const, arrow functions e template literals_
 - [ ] 7-2: _JavaScript ES6 - Objects_
@@ -87,7 +87,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ## Desenvolvimento Front-end :hourglass_flowing_sand:
 
-##### Bloco 11: IntroduÃ§Ã£o - React
+##### Bloco 11: Introdução - React
 
 - [ ] 11-1: _'Hello, world!' no React!_
 - [ ] 11-2: _Componentes React_
@@ -106,7 +106,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [ ] 13-3: _React Router_
 - [ ] 13-4: _[Projeto - Movie Cards Library CRUD]()_
 
-##### Bloco 14: Metodologias Ãgeis
+##### Bloco 14: Metodologias Ágeis
 
 - [ ] 14-1: _Metodologias Ágeis_
 - [ ] 14-2: _[Projeto - Frontend Online Store]()_
@@ -147,7 +147,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 - [ ] 20-1: _Banco de dados SQL_
 - [ ] 20-2: _Encontrando dados em um banco de dados_
-- [ ] 20-3: _Filtrando dados de forma especÃ­fica_
+- [ ] 20-3: _Filtrando dados de forma específica_
 - [ ] 20-4: _Manipulando tabelas_
 - [ ] 20-5: _[Projeto - All For One]()_
 
@@ -239,7 +239,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ## Ciência da Computação :hourglass_flowing_sand:
 
-##### Bloco 35: IntroduÃ§Ã£o - Ciência da ComputaÃ§Ã£o
+##### Bloco 35: Introdução - Ciência da ComputaÃ§Ã£o
 
 - [ ] 35-1: _Arquitetura de Computadores_
 - [ ] 35-2: _Arquitetura de redes_
