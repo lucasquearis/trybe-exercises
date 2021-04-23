@@ -1,0 +1,28 @@
+body {
+    font-size: 16px;
+}
+
+h1 {
+    font-size: 65px;
+    background-color: orange;
+    font-family: sans-serif;
+}
+ul {
+    background-color: blue;
+}
+p {
+    font-weight: 600;
+    font-size: 3em;
+}
+
+.amarelo {
+    background-color: yellow;
+}
+
+.vermelho {
+    background-color: red;
+}
+
+.marrom {
+    background-color: maroon;
+}
