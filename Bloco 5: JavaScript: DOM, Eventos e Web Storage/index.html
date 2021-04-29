@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+  <body>
+    <h2 id="page-title">Título</h2>
+    <p id="paragraph">Dê uma cor para este parágrafo!</p>
+    <h4 id="subtitle">Subtítulo</h4>
+    <p id="second-paragraph">Segundo parágrafo!</p>
+
+    <p class="paragrafo">Primeiro paragrafo</p>
+    <p class="paragrafo">Segundo paragrafo</p>
+
+    <script>
+      var paragraph = document.getElementById("paragraph");
+      paragraph.style.color = "red";
+
+      document.querySelector("#page-title").innerText = "Interstelar"
+      document.querySelector("#second-paragraph").innerText = "Homem-Aranha"
+      document.querySelector("#subtitle").innerText = "Lineage 2"
+      document.querySelectorAll(".paragrafo")[0].innerText = "recuperando"
+      document.querySelectorAll("#subtitle")[0].style.color = "blue";
+    </script>
+  </body>
+</html>
