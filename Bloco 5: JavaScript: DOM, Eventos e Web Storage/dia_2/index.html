@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Exercício Fixação</title>
+</head>
+<body>
+  <div id="paiDoPai">
+    <div id="pai">
+      <div id="primeiroFilho"></div>
+      <div id="elementoOndeVoceEsta">
+        <div id="primeiroFilhoDoFilho"></div>
+        <div id="segundoEUltimoFilhoDoFilho"></div>
+      </div>
+      Atenção!
+      <div id="terceiroFilho"></div>
+      <div id="quartoEUltimoFilho"></div>
+    </div>
+  </div>
+  <script>
+    let colorido = document.getElementById("elementoOndeVoceEsta").parentNode
+    colorido.style.color = "red"
+    document.getElementById("primeiroFilhoDoFilho").innerHTML = "Olá,Mundo"
+    document.getElementById("pai").firstElementChild
+    document.getElementById("elementoOndeVoceEsta").firstElementChild
+    document.getElementById("elementoOndeVoceEsta").nextSibling
+    document.getElementById("elementoOndeVoceEsta").nextSibling.nextSibling
+    document.getElementById("pai").lastElementChild.previousElementSibling
+  </script>
+</body>
+</html>
