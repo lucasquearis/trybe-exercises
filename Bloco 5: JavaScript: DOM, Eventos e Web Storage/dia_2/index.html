@@ -28,6 +28,13 @@
     document.getElementById("elementoOndeVoceEsta").nextSibling
     document.getElementById("elementoOndeVoceEsta").nextSibling.nextSibling
     document.getElementById("pai").lastElementChild.previousElementSibling
+    document.getElementById("pai").appendChild(document.createElement("p"))
+    document.getElementById("elementoOndeVoceEsta").appendChild(document.createElement("p"))
+    document.getElementById("primeiroFilhoDoFilho").appendChild(document.createElement("p"))
+    document.getElementById("terceiroFilho")
+    document.getElementById("paiDoPai")
+    let documentoRemovido = document.getElementById("paiDoPai");
+    documentoRemovido.removeChild("primeiroFilho");
   </script>
 </body>
 </html>
