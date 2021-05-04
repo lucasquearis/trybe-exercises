@@ -75,7 +75,24 @@ window.onload=function(){
   };
   mostrarFeriados();
 
+  function alteraSexta(sextasLista){
+    let selecionaBotaoSexta = document.getElementById('btn-friday');
+    let selecionarSexta = document.getElementsByClassName('friday day');
+    let novoTextoSexta = 'SEXTOOU!!'
 
+    selecionaBotaoSexta.addEventListener('click', function(){
+      for(let index = 0; index < selecionarSexta.length; index += 1){
+        if(selecionarSexta[index].innerHTML !== novoTextoSexta){
+          selecionarSexta[index].innerHTML = novoTextoSexta;
+        } else {
+          selecionarSexta[index].innerHTML = sextasLista[index];
+        }
+      }
+    })
+  };
+
+  let dezFridays = [ 4, 11, 18, 25 ];
+  alteraSexta(dezFridays);
 }
 
 createHolidays('Feriados');
