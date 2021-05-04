@@ -16,6 +16,11 @@ for(key in info){
   console.log(key + ':' + info[key]);
 }
 
-for(index in info){
-  console.log(info.index);
+for(key in info){
+  console.log(key);
+}
+//Faça um novo for/in , mas agora mostre todos os valores das chaves do objeto.
+
+for(key in info){
+  console.log(info[key])
 }
