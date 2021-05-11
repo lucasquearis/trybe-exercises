@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+  <title>Exercícios dia 1 Bloco 6.</title>
+</head>
+<body>
+  <h1>Formulário de cadastro de Currículo</h1>
+  <div>
+    <fieldset>
+      <div>
+        <label for="name">Nome:</label>
+        <input type="text" name="name" id="name" maxlength="40" required>
+      </div>
+      <div>
+        <label for="email">Email:</label>
+        <input type="email" name="email" id="email" maxlength="50" required>
+      </div>
+      <div>
+        <label for="cpf">CPF:</label>
+        <input type="number" name="cpf" id="cpf" maxlength="11" required>
+      </div>
+      <div>
+        <label for="endereco">Endereço:</label>
+        <input type="text" name="endereco" id="endereco" maxlength="200" required>
+      </div>
+      <div>
+        <label for="cidade">Cidade:</label>
+        <input type="text" name="cidade" id="cidade" maxlength="28">
+      </div>
+      <div>
+        <label for="estado">Estado:</label>
+        <select name="estado" id="estado"></select>
+      </div>
+      <div>
+        <label for="tipo">Tipo:</label>
+        <input type="radio" name="tipo" id="tipo">Apartamento
+        <input type="radio" name="tipo" id="tipo" checked>Casa
+      </div>
+    </fieldset>
+    <fieldset>
+      <div>
+        <label for="resumo">Resumo do seu Currículo</label>
+        <textarea name="resumo" id="resumo" cols="30" rows="10" maxlength="1000" required></textarea>
+      </div>
+      <div>
+        <label for="cargo">Cargo:</label>
+        <input type="text" name="cargo" id="cargo" maxlength="40" required>
+      </div>
+      <div>
+        <label for="descricao">Descrição do Cargo:</label>
+        <input type="text" name="descricao" id="descricao" required>
+      </div>
+      <div>
+        <label for="inicio">Data de Início:</label>
+        <input type="month" name="inicio" id="inicio">
+      </div>
+    </fieldset>
+  <button type="submit">Enviar</button>
+  <button type="reset">Limpar</button>
+  </div>
+  
+  <script src="script.js"></script>
+  
+</body>
+</html>
