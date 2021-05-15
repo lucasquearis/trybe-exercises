@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="pt">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS FLEXBOX - ORDER</title>
+    <style>
+      .container {
+        border: 1px solid black;
+        display: flex;
+        height: 50px;
+        margin: auto;
+        width: 500px;
+      }
+
+      .box {
+        align-items: center;
+        display: flex;
+        justify-content: center;
+        width: 125px;
+      }
+
+      .one {
+        background-color: #FBD26A;
+        display: flex;
+        /* Altere a propriedade order. */
+        order: 4;
+      }
+
+      .two {
+        background-color: #FAA488;
+        display: flex;
+        /* Altere a propriedade order. */
+        order: 3;
+      }
+
+      .three {
+        background-color: #9069EF;
+        display: flex;
+        /* Altere a propriedade order. */
+        order: 2;
+      }
+
+      .four {
+        background-color: #006472;
+        display: flex;
+        /* Altere a propriedade order. */
+        order: 1;
+      }
+
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <div class="box one">1</div>
+      <div class="box two">2</div>
+      <div class="box three">3</div>
+      <div class="box four">4</div>
+    </div>
+  </body>
+</html>
