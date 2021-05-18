@@ -1,0 +1,43 @@
+body {
+
+}
+h1 {
+
+}
+h2 {
+
+}
+
+img {
+    max-width: 100%;
+}
+
+figure {
+    margin: 0;
+}
+
+@media screen and (max-width: 500px) {
+  body {
+    font-size: 20px;
+    margin: 15px;
+  }
+  h1 {
+    font-size: 25px;
+  }
+  img {
+    padding: 20px 0;
+  }
+}
+
+@media screen and (min-width: 700px) {
+  body {
+    background-color: orange;
+    font-size: 26px;
+    margin: 15px;
+  }
+
+  figure {
+    float: left;
+    width: 50%;
+  }
+}
