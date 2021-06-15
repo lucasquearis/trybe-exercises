@@ -1,0 +1,1 @@
+const { users, findUserById, getUserName } = require('./exercicio2e3')

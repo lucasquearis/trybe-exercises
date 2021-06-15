@@ -1,0 +1,23 @@
+{
+  "name": "trybe-exercises",
+  "version": "1.0.0",
+  "description": "Este repositório contêm todas as atividades de aprendizagem desenvolvidas por _[Lucas de Almeida Santos](https://www.linkedin.com/in/lucasquearis)_ enquanto estudava na [Trybe](https://www.betrybe.com/) :rocket:",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucasquearis/trybe-exercises.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucasquearis/trybe-exercises/issues"
+  },
+  "homepage": "https://github.com/lucasquearis/trybe-exercises#readme",
+  "devDependencies": {
+    "jest": "^27.0.4"
+  }
+}
