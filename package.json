@@ -19,5 +19,8 @@
   "homepage": "https://github.com/lucasquearis/trybe-exercises#readme",
   "devDependencies": {
     "jest": "^27.0.4"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.1"
   }
 }
