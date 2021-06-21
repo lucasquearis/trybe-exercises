@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/lucasquearis/trybe-exercises#readme",
   "devDependencies": {
+    "@types/jest": "^26.0.23",
     "jest": "^27.0.4"
   },
   "dependencies": {
