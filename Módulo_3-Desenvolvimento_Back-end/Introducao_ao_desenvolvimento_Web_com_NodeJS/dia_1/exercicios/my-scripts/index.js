@@ -7,7 +7,7 @@ console.log(
     2- Calculadora Velocidade Média.
     3- Sorteio.
     4- Fatorial.
-
+    5- Fibonacci.
   `
 )
 const questao = questionInt('Qual a sua opção?  ');
@@ -24,6 +24,9 @@ switch (questao) {
     break;
   case 4:
     require('./fatorial')
+    break;
+  case 5:
+    require('./fibonacci')
     break;
   default:
     console.log('escolha uma opção valida!')

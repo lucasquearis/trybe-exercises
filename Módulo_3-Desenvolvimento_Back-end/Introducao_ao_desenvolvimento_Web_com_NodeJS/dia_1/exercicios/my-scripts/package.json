@@ -9,7 +9,8 @@
     "imc": "node imc.js",
     "velocidade": "node velocidade.js",
     "sorteio": "node sorteio.js",
-    "fatorial": "node fatorial.js"
+    "fatorial": "node fatorial.js",
+    "fibonacci": "node fibonacci.js"
   },
   "keywords": [],
   "author": "Lucas A. Santos",
