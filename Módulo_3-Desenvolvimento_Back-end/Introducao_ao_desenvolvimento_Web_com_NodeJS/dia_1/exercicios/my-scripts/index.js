@@ -6,6 +6,7 @@ console.log(
     1- Calcule seu IMC.
     2- Calculadora Velocidade Média.
     3- Sorteio.
+    4- Fatorial.
 
   `
 )
@@ -20,6 +21,9 @@ switch (questao) {
     break;
   case 3:
     require('./sorteio')
+    break;
+  case 4:
+    require('./fatorial')
     break;
   default:
     console.log('escolha uma opção valida!')
