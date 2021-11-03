@@ -7,7 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node imc.js",
     "imc": "node imc.js",
-    "velocidade": "node velocidade.js"
+    "velocidade": "node velocidade.js",
+    "sorteio": "node sorteio.js"
   },
   "keywords": [],
   "author": "Lucas A. Santos",
