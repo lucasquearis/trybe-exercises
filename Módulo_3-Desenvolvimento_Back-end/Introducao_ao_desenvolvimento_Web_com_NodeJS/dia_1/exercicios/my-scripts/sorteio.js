@@ -1,8 +1,16 @@
-const { questionInt } = require('readline-sync');
+const { questionInt, keyInYN } = require('readline-sync');
 
-const numeroEscolhido = questionInt('Qual seu número favorito?  ');
-const numeroAleatorio = parseInt(Math.random() * 10)
+const sorteio = (numero, resposta) => resposta === numero ? console.log('Você acertou') : console.log(`Você errou o numero certo é ${resposta}`);
 
-const sorteio = () => numeroAleatorio === numeroEscolhido ? 'Você acertou' : `Você errou o numero certo é ${numeroAleatorio}`;
+const game = () => {
+  const numeroEscolhido = questionInt('Qual seu número favorito?  ');
+  const numeroAleatorio = parseInt(Math.random() * 10);
+  sorteio(numeroEscolhido, numeroAleatorio);
+  const jogarNovamente = keyInYN('Você quer jogar novamente?')
+  if(!jogarNovamente) {
+    return console.log('Ok, até a próxima!')
+  }
+  game();
+}
 
-console.log(sorteio());
+game();

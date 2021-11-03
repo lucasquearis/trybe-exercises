@@ -5,7 +5,7 @@
   "main": "imc.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node imc.js",
+    "start": "node index.js",
     "imc": "node imc.js",
     "velocidade": "node velocidade.js",
     "sorteio": "node sorteio.js"
