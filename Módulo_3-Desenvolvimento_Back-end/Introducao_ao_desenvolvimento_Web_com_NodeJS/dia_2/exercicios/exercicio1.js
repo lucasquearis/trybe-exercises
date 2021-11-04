@@ -11,6 +11,17 @@ const functionExercise = (param1, param2, param3) => {
 
 const random = Math.floor(Math.random() * 100 + 1)
 
-functionExercise(random, random, random)
-  .then(result => console.log(result))
-  .catch(err => console.log(err.message));
+// functionExercise(random, random, random)
+//   .then(result => console.log(result))
+//   .catch(err => console.log(err.message));
+
+const callFunc = async () => {
+  try {
+    const response = await functionExercise(random, random, random);
+    console.log(response);
+  } catch (err) {
+    console.log(err.message);
+  }
+};
+
+callFunc();
