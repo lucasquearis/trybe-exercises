@@ -1,4 +1,4 @@
-const connection = require('./connection');
+const connection = require('./connectionMySql');
 
 const getAllBooks = async () => {
   const [books] = await connection.execute(

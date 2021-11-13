@@ -1,6 +1,6 @@
 // models/Author.js
 
-const connection = require('./connection');
+const connection = require('./connectionMySql');
 
 // Cria uma string com o nome completo do autor
 
