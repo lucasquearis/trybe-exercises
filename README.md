@@ -193,7 +193,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] 25-3: _Testes com NodeJS_
 - [x] 25-4: _Express: HTTP com Node.js_
 - [x] 25-5: _Express: Middlewares_
-- [x] 25-6: _[Projeto - Talker Manager](https://github.com/lucasquearis/project-express-talker-manager)_
+- [x] 25-6: _[Projeto - Talker Manager](https://github.com/lucasquearis/project-express-talker-manager)_ :white_check_mark:
 
 ##### :white_check_mark: Bloco 26: Node.js: Camada de Serviço e Arquitetura Rest e Restful
 
