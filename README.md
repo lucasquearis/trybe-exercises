@@ -86,169 +86,198 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ##### :white_check_mark: Bloco 10: Introdução à React
 
-- [x] 11-1: _'Hello, world!' no React!_
-- [x] 11-2: _Componentes React_
-- [x] 11-3: _[Projeto - Movie Cards Library](https://github.com/lucasquearis/project-movie-cards-library)_ :white_check_mark:
+- [x] 10-1: _'Introdução - Front-end_
+- [x] 10-1: _Introdução - React_
+- [x] 10-1: _'Hello, world!' no React!_
+- [x] 10-2: _Componentes React_
+- [x] 10-3: _[Projeto - Movie Cards Library](https://github.com/lucasquearis/project-movie-cards-library)_ :white_check_mark:
 
-##### :white_check_mark: Bloco 11: React
+##### :white_check_mark: Bloco 11: Componentes com Estado, Eventos e Formulários com React
 
-- [x] 12-1: _Components com estado_
-- [x] 12-2: _Eventos e formulários no React_
-- [x] 12-3: _[Projeto - Movie Cards Library Stateful](https://github.com/lucasquearis/project-movie-cards-stateful)_ :white_check_mark:
+- [x] 11-1: _Components com estado e eventos_
+- [x] 11-2: _Formulários no React_
+- [x] 11-3: _[Projeto - Movie Cards Library Stateful](https://github.com/lucasquearis/project-movie-cards-stateful)_ :white_check_mark:
 
-##### :white_check_mark: Bloco 12: React
+##### :white_check_mark: Bloco 12: Ciclo de Vida de Componentes e React Router
 
-- [x] 13-1: _Melhorando o reuso de componentes: props.children e PropTypes_
-- [x] 13-2: _Ciclo de vida de componentes em React_
-- [x] 13-3: _React Router_
-- [x] 13-4: _[Projeto - Movie Cards Library CRUD](https://github.com/lucasquearis/project-movie-cards-crud)_ :white_check_mark:
+- [x] 12-1: _Ciclo de vida de componentes_
+- [x] 12-3: _React Router_
+- [x] 12-4: _[Projeto - Movie Cards Library CRUD](https://github.com/lucasquearis/project-movie-cards-crud)_ :white_check_mark:
 
 ##### :white_check_mark: Bloco 13: Metodologias Ágeis
 
-- [x] 14-1: _Metodologias Ágeis_
-- [x] 14-2: _[Projeto - Frontend Online Store](https://github.com/lucasquearis/front-end-online-store)_ :white_check_mark:
+- [x] 13-1: _Metodologias Ágeis_
+- [x] 13-2: _[Projeto - Frontend Online Store](https://github.com/lucasquearis/front-end-online-store)_ :white_check_mark:
 
-##### :white_check_mark: Bloco 14: Testes em React
+##### :white_check_mark: Bloco 14: Testes automatizados com React Testing Library
 
-- [x] 15-1: _Testando React com a React Testing Library_
-- [x] 15-2: _Testando React com a React Testing Library - Parte 2_
-- [x] 15-3: _[Projeto - Testes em React](https://github.com/lucasquearis/project-react-testing-library)_ :white_check_mark:
+- [x] 14-1: _RTL - Primeiros passos_
+- [x] 14-2: _RTL - Mocks e Inputs_
+- [x] 14-3: _RTL - Testando React Router_
+- [x] 14-4: _[Projeto - Testes em React](https://github.com/lucasquearis/project-react-testing-library)_ :white_check_mark:
 
 ##### :white_check_mark: Bloco 15: Gerenciamento de estado com Redux
 
-- [x] 16-1: _Introdução ao Redux_
-- [x] 16-2: _React com Redux - Parte 1_
-- [x] 16-3: _React com Redux - Prática_
-- [x] 16-4: _React com Redux - Parte 2_
-- [x] 16-5: _Testes síncronos com React-Redux_
-- [x] 16-6: _[Projeto - TrybeWallet](https://github.com/lucasquearis/project-trybe-wallet)_ :white_check_mark:
+- [x] 15-1: _Introdução ao Redux_
+- [x] 15-2: _Usando o Redux no React_
+- [x] 15-3: _Usando o Redux no React - Prática_
+- [x] 15-4: _Usando o Redux no React - Actions Assíncronas_
+- [x] 15-5: _Testes em React-Redux_
+- [x] 15-6: _[Projeto - Trybe Wallet](https://github.com/lucasquearis/project-trybe-wallet)_ :white_check_mark:
 
-##### :white_check_mark: Bloco 16: Projeto React
+##### :white_check_mark: Bloco 16: Projeto Jogo de Trivia
 
-- [x] 17-1: _[Projeto - Jogo de Trivia](https://github.com/lucasquearis/project-trivia-redux)_ :white_check_mark:
+- [x] 16-1: _[Projeto - Jogo de Trivia](https://github.com/lucasquearis/project-trivia-redux)_ :white_check_mark:
 
-##### :white_check_mark: Bloco 17: React & Context API
+##### :white_check_mark: Bloco 17: Context API e React Hooks
 
-- [x] 18-1: _Context API do React_
-- [x] 18-2: _React Hooks - useState e useContext_
-- [x] 18-3: _React Hooks - useEffect e Hooks customizados_
-- [x] 18-4: _[Projeto - StarWars Datatable com Context API e Hooks]()_ :white_check_mark:
+- [x] 17-1: _Context API do React_
+- [x] 17-2: _React Hooks - useState e useContext_
+- [x] 17-3: _React Hooks - useEffect e Hooks customizados_
+- [x] 17-4: _[Projeto - StarWars Datatable com Context API e Hooks](https://github.com/lucasquearis/project-starwars)_ :white_check_mark:
 
-##### Bloco 19: Projeto Final de Front-end
+##### :white_check_mark: Bloco 18: Projeto App de Receitas
 
-- [ ] 19-1: _[Projeto - App de Receitas]()_
+- [x] 18-1: _[Projeto - App de Receitas](https://github.com/lucasquearis/project-recipe-app)_ :white_check_mark:
 
-## Desenvolvimento Back-end :hourglass_flowing_sand
+## :hourglass_flowing_sand: Desenvolvimento Back-end
 
-##### Bloco 20: Introdução - Bancos de dados relacionais
+##### :white_check_mark: Bloco 19: Introdução à SQL
 
-- [ ] 20-1: _Banco de dados SQL_
-- [ ] 20-2: _Encontrando dados em um banco de dados_
-- [ ] 20-3: _Filtrando dados de forma específica_
-- [ ] 20-4: _Manipulando tabelas_
-- [ ] 20-5: _[Projeto - All For One]()_
+- [x] 19-1: _Introdução Back-end_
+- [x] 19-1: _Introdução Bancos de dados relacionais_
+- [x] 19-1: _Bancos de dados SQL_
+- [x] 19-2: _Encontrando dados em um banco de dados_
+- [x] 19-3: _Filtrando dados de forma específica_
+- [x] 19-4: _Manipulando tabelas_
+- [x] 19-5: _[Projeto - All For One](https://github.com/lucasquearis/project-mysql-all-for-one)_ :white_check_mark:
 
-##### Bloco 21: Bancos de dados relacionais
+##### :white_check_mark: Bloco 20: Funções SQL, JOINs e Normalização
 
-- [ ] 21-1: _Funções mais usadas no SQL_
-- [ ] 21-2: _Descomplicando JOINs e UNIONs_
-- [ ] 21-3: _Stored Routines & Subqueries_
-- [ ] 21-4: _[Projeto - Vocabulary Booster]()_
+- [x] 20-1: _Funções mais usadas no SQL_
+- [x] 20-2: _Descomplicando JOINs e UNIONs e Subqueries_
+- [x] 20-3: _Stored Routines & Stored Functions
+- [x] 20-4: _[Projeto - Vocabulary Booster](https://github.com/lucasquearis/project-mysql-vocabulary-booster)_ :white_check_mark:
 
-##### Bloco 22: Bancos de dados relacionais
+##### :white_check_mark: Bloco 21: Normalização e Modelagem de Banco de Dados
 
-- [ ] 22-1: _Transformando ideias em um modelo de banco de dados_
-- [ ] 22-2: _Normalização, Formas Normais e Dumps_
-- [ ] 22-2: _Transformando ideias em um modelo de banco de dados - Parte 2_
-- [ ] 22-3: _[Projeto - One For All]()_
+- [x] 21-1: _Transformando ideias em um modelo de banco de dados - Parte 1_
+- [x] 21-2: _Normalização, Formas Normais e Dumps_
+- [x] 21-2: _Transformando ideias em um modelo de banco de dados - Parte 2_
+- [x] 21-3: _[Projeto - One For All](https://github.com/lucasquearis/project-mysql-one-for-all)_ :white_check_mark:
 
-##### Bloco 23: Introdução - NoSQL
+##### :white_check_mark: Bloco 22: Introdução ao MongoDB
 
-- [ ] 23-1: _MongoDB - Introdução_
-- [ ] 23-2: _Filter Operators_
-- [ ] 23-3: _[Projeto - Data Flights]()_
+- [x] 22-1: _Introdução - NoSQL_
+- [x] 22-1: _MongoDB - Introdução_
+- [x] 22-2: _Filter Operators_
+- [x] 22-3: _[Projeto - Data Flights](https://github.com/lucasquearis/project-mongodb-dataflights)_ :white_check_mark:
 
-##### Bloco 24: Updates
+##### :white_check_mark: Bloco 23: MongoDB: Updates Simples e Complexos
 
-- [ ] 24-1: _Updates Simples_
-- [ ] 24-2: _Updates Complexos - Arrays - Parte 1_
-- [ ] 24-3: _Updates Complexos - Arrays - Parte 2_
-- [ ] 24-4: _[Projeto - Commerce]()_
+- [x] 23-1: _Updates Simples_
+- [x] 23-2: _Updates Complexos - Arrays - Parte 1_
+- [x] 23-3: _Updates Complexos - Arrays - Parte 2_
+- [x] 23-4: _[Projeto - Commerce](https://github.com/lucasquearis/project-mongodb-commerce)_ :white_check_mark:
 
-##### Bloco 25: Aggregation Framework
+##### :white_check_mark: Bloco 24: MongoDB: Aggregation Framework
 
-- [ ] 25-1: _Aggregation Framework - Part 1_
-- [ ] 25-2: _Aggregation Framework - Part 2_
-- [ ] 25-3: _[Projeto - Aggregations]()_
+- [x] 24-1: _Aggregation Framework - Part 1_
+- [x] 24-2: _Aggregation Framework - Part 2_
+- [x] 24-3: _[Projeto - Aggregations](https://github.com/lucasquearis/project-mongodb-aggregations)_ :white_check_mark:
 
-##### Bloco 26: Intro - NodeJS
+##### :white_check_mark: Bloco 25: Introdução ao desenvolvimento Web com Node.js
 
-- [ ] 26-1: _NodeJS - Introdução_
-- [ ] 26-2: _NodeJS - Fluxo AssÃ­ncrono_
-- [ ] 26-3: _NodeJS - Arquitetura_
-- [ ] 26-4: _[Projeto - A CLI of Ice and Fire]()_
+- [x] 25-1: _NodeJS - Introdução_
+- [x] 25-2: _NodeJS - Fluxo AssÃ­ncrono_
+- [x] 25-3: _Testes com NodeJS_
+- [x] 25-4: _Express: HTTP com Node.js_
+- [x] 25-5: _Express: Middlewares_
+- [x] 25-6: _[Projeto - Talker Manager](https://github.com/lucasquearis/project-express-talker-manager)_
 
-##### Bloco 27: NodeJS
+##### :white_check_mark: Bloco 26: Node.js: Camada de Serviço e Arquitetura Rest e Restful
 
-- [ ] 27-1: _Express: HTTP com Node.js_
-- [ ] 27-2: _Arquitetura de Software - Introdução ao MVC_
-- [ ] 27-3: _[Projeto - Cookmaster]()_
+- [x] 26-1: _Introdução - Arquitetura de Software_
+- [x] 26-1: _Arquitetura de Software - Camada de Model_
+- [x] 26-2: _Arquitetura de Software - Camada de Controller e Service_
+- [x] 26-3: _Arquitetura Web - Rest e Restful_
+- [x] 26-4: _Arquitetura de Software - Testando as Camadas_
+- [x] 26-5: _[Projeto - Store Manager](https://github.com/lucasquearis/project-express-store-manager)_ :white_check_mark:
 
-##### Bloco 28: NodeJS
+##### :white_check_mark: Bloco 27: Autenticação e Upload de Arquivos
 
-- [ ] 28-1: _Arquitetura de Software - Camada de ServiÃ§o_
-- [ ] 28-2: _Arquitetura web - Rest e Restful_
-- [ ] 28-3: _[Projeto - Store Manager]()_
+- [x] 27-1: _NodeJS - JWT - (JSON Web Token)_
+- [x] 27-2: _NodeJS - Upload de arquivos com Multer_
+- [x] 27-3: _NodeJS - Testando APIs com Teste de Integração_
+- [x] 27-4: _[Projeto - Cookmaster](https://github.com/lucasquearis/project-express-cookmaster)_ :white_check_mark:
 
-##### Bloco 29: NodeJS
+##### :white_check_mark: Bloco 28: Deployment
 
-- [ ] 29-1: _NodeJS - JWT - (JSON Web Token)_
-- [ ] 29-2: _NodeJS - Upload de arquivos com Multer_
-- [ ] 29-3: _[Projeto - Cookmaster V2]()_
+- [x] 28-1: _Introdução - Deploy_
+- [x] 28-1: _Infraestrutura - Deploy com Heroku_
+- [x] 28-2: _Deploy - Gerenciadores de Processos_
+- [ ] 28-3: _[Projeto - Stranger Things]()_ :hourglass_flowing_sand:
 
-##### Bloco 30: Introdução - Deploy
+##### :hourglass_flowing_sand: Bloco 29: Arquitetura: SOLID e ORM
 
-- [ ] 30-1: _Infraestrutura - Deploy com Heroku_
-- [ ] 30-2: _Deploy - Gerenciadores de Processos_
-- [ ] 30-3: _[Projeto - Stranger Things]()_
+- [ ] 29-1: _Arquitetura - Princípios SOLID_
+- [ ] 29-2: _ORM - Interface da aplicação com o banco de dados_
+- [ ] 29-3: _ORM - Associations_
+- [ ] 29-4: _[Projeto - API de Blogs]()_ :hourglass_flowing_sand:
 
-##### Bloco 31: Projeto
+##### :hourglass_flowing_sand: Bloco 30: Sockets
 
-- [ ] 31-1: _[Projeto - Trybeer]()_
-
-##### Bloco 32: Arquitetura de Software
-
-- [ ] 32-1: _Arquitetura - Princípios SOLID_
-- [ ] 32-2: _ORM - Interface da aplicação com o banco de dados_
-- [ ] 32-3: _Arquitetura de Software - DDD_
-- [ ] 32-4: _Boas práticas na escrita de testes_
-- [ ] 32-3: _[Projeto - API de Blogs]()_
-
-##### Bloco 33: Sockets
-
+- [ ] 30-1: _Arquitetura de Software - Camada de View_
 - [ ] 30-1: _Sockets - TCP/UDP & NET_
 - [ ] 30-2: _Sockets - Socket.io_
-- [ ] 30-3: _[Projeto - Webchat]()_
+- [ ] 30-2: _Sockets - Praticando Socket.io_
+- [ ] 30-3: _[Projeto - Webchat]()_ :hourglass_flowing_sand:
 
-##### Bloco 34: Projeto
+##### Bloco 31: Projeto - App de Delivery
 
-- [ ] 34-1: _[Projeto - Trybeer V2]()_
+- [ ] 34-1: _[Projeto - App de Delivery]()_
 
-## Ciência da Computação :hourglass_flowing_sand
+## :hourglass_flowing_sand: Ciência da Computação
 
-##### Bloco 35: Introdução - Ciência da Computação
+##### :hourglass_flowing_sand: Bloco 32: Introdução à Python
 
-- [ ] 35-1: _Arquitetura de Computadores_
-- [ ] 35-2: _Arquitetura de redes_
-- [ ] 35-3: _Redes de computadores, ferramentas e seguranÃ§a_
-- [ ] 35-4: _[Projeto - Explorando os protocolos]()_
+- [ ] 32-1: _Introdução a Ciência da Computação_
+- [ ] 32-1: _Aprendendo Python_
+- [ ] 32-2: _Entrada e Saída de Dados_
+- [ ] 32-2: _Testes_
+- [ ] 32-3: _[Projeto - Job Insights]()_ :hourglass_flowing_sand:
 
-##### Bloco 36: Python
+##### :hourglass_flowing_sand: Bloco 33: Programação Orientada a Objetos e Padrões de Projeto
 
-- [ ] 35-1: _Aprendendo Python_
-- [ ] 35-2: _Testes e Exceções_
-- [ ] 35-3: _Entrada e Saída de dados_
-- [ ] 36-4: _Entrada e Saí­da de dados_
-- [ ] 35-5: _[Projeto - Tech news]()_
+- [ ] 33-1: _Introdução à Programação Orientada a Objetos_
+- [ ] 33-2: _Herança, Composição e Interfaces_
+- [ ] 33-3: _Padrões de Projetos_
+- [ ] 33-4: _[Projeto - Relatório de Estoque]()_ :hourglass_flowing_sand:
 
-# [...]
+##### :hourglass_flowing_sand: Bloco 34: Redes e Raspagem de Dados
+
+- [ ] 34-1: _Arquitetura de Redes_
+- [ ] 34-2: _Redes de Computadores, ferramentas e segurança_
+- [ ] 34-3: _Raspagem de dados_
+- [ ] 34-4: _[Projeto - Tech News]()_ :hourglass_flowing_sand:
+
+##### :hourglass_flowing_sand: Bloco 35: Algoritmos
+
+- [ ] 35-1: _Complexidade de Algoritmos_
+- [ ] 35-2: _Recursividade e Estratégias para solução de problemas_
+- [ ] 35-3: _Algoritmo de ordenação e busca_
+- [ ] 35-4: _[Projeto - Algoritmos]()_ :hourglass_flowing_sand:
+
+##### :hourglass_flowing_sand: Bloco 36: Estrutura de Dados I: Arrays, Hashmaps e Sets
+
+- [ ] 36-1: _Arquitetura de Computadores_
+- [ ] 36-2: _Arrays_
+- [ ] 36-3: _Hashmap e Dict_
+- [ ] 36-4: _Set_
+- [ ] 36-5: _[Projeto - Restaurant Orders]()_ :hourglass_flowing_sand:
+
+##### :hourglass_flowing_sand: Bloco 37: Estrutura de Dados II: Listas, Filas e Pilhas
+
+- [ ] 37-1: _Nó e listas encadeadas_
+- [ ] 37-2: _Pilhas e Filas_
+- [ ] 37-3: _[Projeto - TING - Trybe Is Not Google]()_ :hourglass_flowing_sand:
