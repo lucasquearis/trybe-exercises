@@ -189,7 +189,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 ##### :white_check_mark: Bloco 25: Introdução ao desenvolvimento Web com Node.js
 
 - [x] 25-1: _NodeJS - Introdução_
-- [x] 25-2: _NodeJS - Fluxo AssÃ­ncrono_
+- [x] 25-2: _NodeJS - Fluxo Assíncrono_
 - [x] 25-3: _Testes com NodeJS_
 - [x] 25-4: _Express: HTTP com Node.js_
 - [x] 25-5: _Express: Middlewares_
@@ -216,7 +216,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] 28-1: _Introdução - Deploy_
 - [x] 28-1: _Infraestrutura - Deploy com Heroku_
 - [x] 28-2: _Deploy - Gerenciadores de Processos_
-- [ ] 28-3: _[Projeto - Stranger Things]()_ :hourglass_flowing_sand:
+- [x] 28-3: _[Projeto - Stranger Things](https://lucasquearis-pd.herokuapp.com/)_ :white_check_mark:
 
 ##### :hourglass_flowing_sand: Bloco 29: Arquitetura: SOLID e ORM
 
