@@ -1,0 +1,19 @@
+{
+  "name": "chat-online",
+  "version": "1.0.0",
+  "description": "",
+  "main": "inde.js",
+  "scripts": {
+    "start": "node index.js",
+    "debug": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
