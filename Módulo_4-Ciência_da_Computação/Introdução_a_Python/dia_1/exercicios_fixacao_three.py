@@ -11,4 +11,3 @@ print(info)
 del info["origem"]
 
 print(info)
-
